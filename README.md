@@ -9,4 +9,4 @@ Es el archivo encargo de ejecutar todo el sistema una vez que ya ha sido calibra
 Este es el archivo es el encargo de realizar los cálculos para los desplazamientos y ubicación de los motores.
 
 ## testi2c.py
-Este es el archivo es el encargo de realizar el test de comunicación 
+Este es el archivo es el encargo de realizar el test de comunicación.
